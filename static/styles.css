@@ -1,0 +1,9 @@
+
+#journal-list li {
+    display: flex;
+    justify-content: space-between;
+}
+
+#journal-list li .buttons .text-red {
+    color:red;
+}
